@@ -1,7 +1,7 @@
 Tugas Kelompok 2 Pengujian Software dan Sistem
 Link trello : https://trello.com/b/NEqfoP3s
 
-1.  Arief Muchsin             311710593
+1.  Arief Muhsin             311710593
 2.	Gede Ari Surya            311710167
 3.	Noval Prastiyo	          311710559
 4.	Mahrus Amin		            311710636
